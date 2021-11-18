@@ -1,0 +1,12 @@
+*{
+  font-family: Verdana;
+  font-size: 15px;
+  text-align: center;
+  padding: 7px
+}
+button{
+  color: black;
+   height: 40px;
+  width: 90px;
+  background: linear-gradient(90deg, rgba(84,205,252,0.727328431372549) 30%, rgba(245,169,182,0.7413340336134453) 65%);
+}
